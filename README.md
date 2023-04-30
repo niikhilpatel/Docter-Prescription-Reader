@@ -1,1 +1,1 @@
-# Docter-Prescription-Reader<hr>
+# Docter-Prescription-Reader
